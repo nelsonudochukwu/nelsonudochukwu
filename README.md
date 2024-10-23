@@ -1,10 +1,16 @@
 - 👋 Hi, I’m Nelson Esther
-- 👀 I’m interested in pure and applied mathematics
-- 🌱 I’m currently learning **data analysis** and **machine learning**
-- 💞️ I’m looking to collaborate on data analysis projects, mathematical research and technical writings 
+  
+- 👀 I’m interested in anything Data, including (but not limited to) Pure and applied mathematics, Data Analysis and Machine Learning
+  
+- 🌱 I’m currently learning **Data Analysis** and **Machine Learning**
+  
+- 💞️ I’m looking to collaborate on data analysis projects, mathematical research and technical writings
+  
 - 📫 How to reach me **nelsonchampion4real@gmail.com**
+  
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I dance to mathematical fables
+  
+- ⚡ Fun fact: I spend my nights dancing to mathematical fables
 
 <!---
 nelsonudochukwu/nelsonudochukwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
